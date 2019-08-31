@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meroophah.mt165.co.uk/sitemap.xml
